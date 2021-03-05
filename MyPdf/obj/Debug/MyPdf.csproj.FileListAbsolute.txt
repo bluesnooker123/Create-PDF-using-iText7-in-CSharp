@@ -1,0 +1,72 @@
+F:\Freelancer\Bids\Temp Project\12_13\C# iText7 make PDF includeing barcode\work\MyPdf\MyPdf\obj\Debug\MyPdf.csprojResolveAssemblyReference.cache
+F:\Freelancer\Bids\Temp Project\12_13\C# iText7 make PDF includeing barcode\work\MyPdf\MyPdf\obj\Debug\MyPdf.Form1.resources
+F:\Freelancer\Bids\Temp Project\12_13\C# iText7 make PDF includeing barcode\work\MyPdf\MyPdf\obj\Debug\MyPdf.Properties.Resources.resources
+F:\Freelancer\Bids\Temp Project\12_13\C# iText7 make PDF includeing barcode\work\MyPdf\MyPdf\obj\Debug\MyPdf.csproj.GenerateResource.Cache
+F:\Freelancer\Bids\Temp Project\12_13\C# iText7 make PDF includeing barcode\work\MyPdf\MyPdf\obj\Debug\MyPdf.csproj.CoreCompileInputs.cache
+F:\Freelancer\Bids\Temp Project\12_13\C# iText7 make PDF includeing barcode\work\MyPdf\MyPdf\bin\Debug\MyPdf.exe.config
+F:\Freelancer\Bids\Temp Project\12_13\C# iText7 make PDF includeing barcode\work\MyPdf\MyPdf\bin\Debug\MyPdf.exe
+F:\Freelancer\Bids\Temp Project\12_13\C# iText7 make PDF includeing barcode\work\MyPdf\MyPdf\bin\Debug\MyPdf.pdb
+F:\Freelancer\Bids\Temp Project\12_13\C# iText7 make PDF includeing barcode\work\MyPdf\MyPdf\bin\Debug\itext.barcodes.dll
+F:\Freelancer\Bids\Temp Project\12_13\C# iText7 make PDF includeing barcode\work\MyPdf\MyPdf\bin\Debug\itext.forms.dll
+F:\Freelancer\Bids\Temp Project\12_13\C# iText7 make PDF includeing barcode\work\MyPdf\MyPdf\bin\Debug\itext.io.dll
+F:\Freelancer\Bids\Temp Project\12_13\C# iText7 make PDF includeing barcode\work\MyPdf\MyPdf\bin\Debug\itext.kernel.dll
+F:\Freelancer\Bids\Temp Project\12_13\C# iText7 make PDF includeing barcode\work\MyPdf\MyPdf\bin\Debug\itext.layout.dll
+F:\Freelancer\Bids\Temp Project\12_13\C# iText7 make PDF includeing barcode\work\MyPdf\MyPdf\bin\Debug\itext.pdfa.dll
+F:\Freelancer\Bids\Temp Project\12_13\C# iText7 make PDF includeing barcode\work\MyPdf\MyPdf\bin\Debug\itext.sign.dll
+F:\Freelancer\Bids\Temp Project\12_13\C# iText7 make PDF includeing barcode\work\MyPdf\MyPdf\bin\Debug\itext.barcodes.xml
+F:\Freelancer\Bids\Temp Project\12_13\C# iText7 make PDF includeing barcode\work\MyPdf\MyPdf\bin\Debug\itext.forms.xml
+F:\Freelancer\Bids\Temp Project\12_13\C# iText7 make PDF includeing barcode\work\MyPdf\MyPdf\bin\Debug\itext.io.xml
+F:\Freelancer\Bids\Temp Project\12_13\C# iText7 make PDF includeing barcode\work\MyPdf\MyPdf\bin\Debug\itext.kernel.xml
+F:\Freelancer\Bids\Temp Project\12_13\C# iText7 make PDF includeing barcode\work\MyPdf\MyPdf\bin\Debug\itext.layout.xml
+F:\Freelancer\Bids\Temp Project\12_13\C# iText7 make PDF includeing barcode\work\MyPdf\MyPdf\bin\Debug\itext.pdfa.xml
+F:\Freelancer\Bids\Temp Project\12_13\C# iText7 make PDF includeing barcode\work\MyPdf\MyPdf\bin\Debug\itext.sign.xml
+F:\Freelancer\Bids\Temp Project\12_13\C# iText7 make PDF includeing barcode\work\MyPdf\MyPdf\obj\Debug\MyPdf.exe
+F:\Freelancer\Bids\Temp Project\12_13\C# iText7 make PDF includeing barcode\work\MyPdf\MyPdf\obj\Debug\MyPdf.pdb
+F:\Freelancer\Bids\Temp Project\12_13\CSharp Create Pdf with barcode using iText7\work\MyPdf\MyPdf\bin\Debug\MyPdf.exe.config
+F:\Freelancer\Bids\Temp Project\12_13\CSharp Create Pdf with barcode using iText7\work\MyPdf\MyPdf\bin\Debug\MyPdf.exe
+F:\Freelancer\Bids\Temp Project\12_13\CSharp Create Pdf with barcode using iText7\work\MyPdf\MyPdf\bin\Debug\MyPdf.pdb
+F:\Freelancer\Bids\Temp Project\12_13\CSharp Create Pdf with barcode using iText7\work\MyPdf\MyPdf\bin\Debug\itext.barcodes.dll
+F:\Freelancer\Bids\Temp Project\12_13\CSharp Create Pdf with barcode using iText7\work\MyPdf\MyPdf\bin\Debug\itext.forms.dll
+F:\Freelancer\Bids\Temp Project\12_13\CSharp Create Pdf with barcode using iText7\work\MyPdf\MyPdf\bin\Debug\itext.io.dll
+F:\Freelancer\Bids\Temp Project\12_13\CSharp Create Pdf with barcode using iText7\work\MyPdf\MyPdf\bin\Debug\itext.kernel.dll
+F:\Freelancer\Bids\Temp Project\12_13\CSharp Create Pdf with barcode using iText7\work\MyPdf\MyPdf\bin\Debug\itext.layout.dll
+F:\Freelancer\Bids\Temp Project\12_13\CSharp Create Pdf with barcode using iText7\work\MyPdf\MyPdf\bin\Debug\itext.pdfa.dll
+F:\Freelancer\Bids\Temp Project\12_13\CSharp Create Pdf with barcode using iText7\work\MyPdf\MyPdf\bin\Debug\itext.sign.dll
+F:\Freelancer\Bids\Temp Project\12_13\CSharp Create Pdf with barcode using iText7\work\MyPdf\MyPdf\bin\Debug\itext.barcodes.xml
+F:\Freelancer\Bids\Temp Project\12_13\CSharp Create Pdf with barcode using iText7\work\MyPdf\MyPdf\bin\Debug\itext.forms.xml
+F:\Freelancer\Bids\Temp Project\12_13\CSharp Create Pdf with barcode using iText7\work\MyPdf\MyPdf\bin\Debug\itext.io.xml
+F:\Freelancer\Bids\Temp Project\12_13\CSharp Create Pdf with barcode using iText7\work\MyPdf\MyPdf\bin\Debug\itext.kernel.xml
+F:\Freelancer\Bids\Temp Project\12_13\CSharp Create Pdf with barcode using iText7\work\MyPdf\MyPdf\bin\Debug\itext.layout.xml
+F:\Freelancer\Bids\Temp Project\12_13\CSharp Create Pdf with barcode using iText7\work\MyPdf\MyPdf\bin\Debug\itext.pdfa.xml
+F:\Freelancer\Bids\Temp Project\12_13\CSharp Create Pdf with barcode using iText7\work\MyPdf\MyPdf\bin\Debug\itext.sign.xml
+F:\Freelancer\Bids\Temp Project\12_13\CSharp Create Pdf with barcode using iText7\work\MyPdf\MyPdf\obj\Debug\MyPdf.csprojResolveAssemblyReference.cache
+F:\Freelancer\Bids\Temp Project\12_13\CSharp Create Pdf with barcode using iText7\work\MyPdf\MyPdf\obj\Debug\MyPdf.Form1.resources
+F:\Freelancer\Bids\Temp Project\12_13\CSharp Create Pdf with barcode using iText7\work\MyPdf\MyPdf\obj\Debug\MyPdf.Properties.Resources.resources
+F:\Freelancer\Bids\Temp Project\12_13\CSharp Create Pdf with barcode using iText7\work\MyPdf\MyPdf\obj\Debug\MyPdf.csproj.GenerateResource.Cache
+F:\Freelancer\Bids\Temp Project\12_13\CSharp Create Pdf with barcode using iText7\work\MyPdf\MyPdf\obj\Debug\MyPdf.csproj.CoreCompileInputs.cache
+F:\Freelancer\Bids\Temp Project\12_13\CSharp Create Pdf with barcode using iText7\work\MyPdf\MyPdf\obj\Debug\MyPdf.exe
+F:\Freelancer\Bids\Temp Project\12_13\CSharp Create Pdf with barcode using iText7\work\MyPdf\MyPdf\obj\Debug\MyPdf.pdb
+C:\Users\Legendary\Desktop\MyPdf\MyPdf\bin\Debug\MyPdf.exe.config
+C:\Users\Legendary\Desktop\MyPdf\MyPdf\bin\Debug\MyPdf.exe
+C:\Users\Legendary\Desktop\MyPdf\MyPdf\bin\Debug\MyPdf.pdb
+C:\Users\Legendary\Desktop\MyPdf\MyPdf\bin\Debug\itext.barcodes.dll
+C:\Users\Legendary\Desktop\MyPdf\MyPdf\bin\Debug\itext.forms.dll
+C:\Users\Legendary\Desktop\MyPdf\MyPdf\bin\Debug\itext.io.dll
+C:\Users\Legendary\Desktop\MyPdf\MyPdf\bin\Debug\itext.kernel.dll
+C:\Users\Legendary\Desktop\MyPdf\MyPdf\bin\Debug\itext.layout.dll
+C:\Users\Legendary\Desktop\MyPdf\MyPdf\bin\Debug\itext.pdfa.dll
+C:\Users\Legendary\Desktop\MyPdf\MyPdf\bin\Debug\itext.sign.dll
+C:\Users\Legendary\Desktop\MyPdf\MyPdf\bin\Debug\itext.barcodes.xml
+C:\Users\Legendary\Desktop\MyPdf\MyPdf\bin\Debug\itext.forms.xml
+C:\Users\Legendary\Desktop\MyPdf\MyPdf\bin\Debug\itext.io.xml
+C:\Users\Legendary\Desktop\MyPdf\MyPdf\bin\Debug\itext.kernel.xml
+C:\Users\Legendary\Desktop\MyPdf\MyPdf\bin\Debug\itext.layout.xml
+C:\Users\Legendary\Desktop\MyPdf\MyPdf\bin\Debug\itext.pdfa.xml
+C:\Users\Legendary\Desktop\MyPdf\MyPdf\bin\Debug\itext.sign.xml
+C:\Users\Legendary\Desktop\MyPdf\MyPdf\obj\Debug\MyPdf.csprojResolveAssemblyReference.cache
+C:\Users\Legendary\Desktop\MyPdf\MyPdf\obj\Debug\MyPdf.Form1.resources
+C:\Users\Legendary\Desktop\MyPdf\MyPdf\obj\Debug\MyPdf.Properties.Resources.resources
+C:\Users\Legendary\Desktop\MyPdf\MyPdf\obj\Debug\MyPdf.csproj.GenerateResource.Cache
+C:\Users\Legendary\Desktop\MyPdf\MyPdf\obj\Debug\MyPdf.csproj.CoreCompileInputs.cache
+C:\Users\Legendary\Desktop\MyPdf\MyPdf\obj\Debug\MyPdf.exe
+C:\Users\Legendary\Desktop\MyPdf\MyPdf\obj\Debug\MyPdf.pdb
